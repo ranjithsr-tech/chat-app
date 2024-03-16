@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  border: 5px solid gray;
+  width: 30%;
+}
+#header {
+  background-color: chocolate;
+}
+
+#mesageDisplay {
+   height: 60vh;
+   overflow: auto;
+}
+
+#messageBox {
+  width: 90%;
+}
+
+#typeMessage {
+  text-align: left;
+}
+ .sender {
+  text-align: right;
+ }
+
+ .receiver {
+  text-align: left;
+ }
+
+#sendBtn {
+  text-align: right;
+}
+
+
+
